@@ -3,8 +3,8 @@ Trabalho de IOS
 
 Integrantes 
 
-Vinicius D'Abadia
+Vinicius Venâncio D'Abadia
 
-Claudio Cavalcante 
+Claudio Cavalcante Tonha
 
 Danilo Pinheiro Neto 
